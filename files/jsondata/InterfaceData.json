@@ -2000,6 +2000,14 @@
       "inh": "",
       "impl": []
     },
+    "JsonLd": {
+      "inh": "",
+      "impl": []
+    },
+    "JsonLdProcessor": {
+      "inh": "",
+      "impl": []
+    },
     "Keyboard": {
       "inh": "EventTarget",
       "impl": []
